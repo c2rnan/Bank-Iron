@@ -1,0 +1,8 @@
+Funções:
+
+1 - Criar Conta
+2 - Depositar
+3 - Sacar 
+4 - Ver Saldo
+5 - Ver Historico
+6 - Sair 
