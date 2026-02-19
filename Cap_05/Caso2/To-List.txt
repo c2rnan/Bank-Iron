@@ -1,0 +1,16 @@
+Gerenciador de Tarefas (To-Do List)
+
+    -Adicionar tarefa
+
+    -Listar tarefas
+
+    -Remover tarefa
+
+    -Salvar em arquivo .txt
+
+PSEUDOCODIGO:
+
+LISTA TAREFAS
+IMPRIMI
+Remover
+Salvar EM txt
